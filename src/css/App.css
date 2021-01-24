@@ -234,6 +234,9 @@ body {
   #form-box select {
     display: block;
   }
+  #form-box button {
+    margin: 25px auto 0 auto;
+  }
   #form-box #name-box {
     display: flex;
   }
